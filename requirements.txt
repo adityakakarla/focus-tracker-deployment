@@ -1,0 +1,1 @@
+camera_input_live>=0.2.0
